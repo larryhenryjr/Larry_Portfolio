@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Larry Henry Jr.</title>
+    <link>https://larryhenry544.github.io/Larry_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Larry Henry Jr.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Aug 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://larryhenry544.github.io/Larry_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project IV: Identify Fraud from Enron Email</title>
+      <link>https://larryhenry544.github.io/Larry_Portfolio/post/project-4/</link>
+      <pubDate>Sat, 14 Aug 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://larryhenry544.github.io/Larry_Portfolio/post/project-4/</guid>
+      <description>Conducted an Exploratory Data Analysis on the dataset to understand the data and investigate informative features. Selected features likely to provide predictive power in the classification model. Cleaned or removed erroneous and outlier data from the selected features. Engineered/transformed selected features into new features appropriate for classification modelling. Tested different classifiers and review performance. Investigated new data sources that may exist to provide better model performance.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project III: Explore and Summarize Data</title>
+      <link>https://larryhenry544.github.io/Larry_Portfolio/post/project-3/</link>
+      <pubDate>Sun, 08 Aug 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://larryhenry544.github.io/Larry_Portfolio/post/project-3/</guid>
+      <description>Created a standalone R program that would examine peer-to-peer lending data selecting influential factors for analyzing, applying descriptive statistical methods, and returning aggregations and derived values of key attributes using descriptive statistical methods and visualizations. Conducted an Exploratory Data Analysis (EDA) on one of the curated data sets from Prosper, which is America’s first marketplace lending platform, with over $12 billion in funded loans as of June 2021. The program will return any conclusions drawn or results of key indicators or factors that may have implications on key business decisions.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Storytelling using Tableau</title>
+      <link>https://larryhenry544.github.io/Larry_Portfolio/post/project-2/</link>
+      <pubDate>Sat, 03 Jul 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://larryhenry544.github.io/Larry_Portfolio/post/project-2/</guid>
+      <description>Demonstrated the ability to choose optimal visual elements to encode data and critically assessed the effectiveness of a visualization Conducted an Exploratory Data Analysis (EDA) on one of the curated data sets from Prosper, which is America’s first marketplace lending platform, with over $12 billion in funded loans as of June 2021. Communicated a story and finding using interactive visualizations. Undergone the iterative process of creating a visualization, and built interactive visualizations with Tableau.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Data Wrangling Project using Openstreetmap</title>
+      <link>https://larryhenry544.github.io/Larry_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 14 Jun 2021 12:00:00 -0500</pubDate>
+      
+      <guid>https://larryhenry544.github.io/Larry_Portfolio/post/project-1/</guid>
+      <description>Accessed data and performed data cleaning and data wrangling using Python programming. Started by downloading the OpenStreet Map (OSM) data first. Then, I accessed the XML data from the downloaded OpenStreet Map file. Audited several fields and performed some data cleaning while parsing the OSM into to five CSV files before importing the files to SQL tables. Cleaned data will then be imported into a database management system (DBMS) or MongoDB.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://larryhenry544.github.io/Larry_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://larryhenry544.github.io/Larry_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     Twitter: https://twitter.com/LarryHenryJr/   LinkedIn: https://www.linkedin.com/in/larry-henry-1b755442/   GitHub: https://github.com/larryhenry544/    </description>
+    </item>
+    
+  </channel>
+</rss>
